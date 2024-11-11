@@ -12,10 +12,10 @@
 Highly motivated junior developer with over 2 years of experience. Expert with a wide variety of security, networking, and operating system software.
 
 ### Education:
-Bachelor Degree in Engineering Geodesy
-September 2010 - June 2015
-Polotsk State University
-
+* **University:** Bachelor Degree in Engineering Geodesy
+* **Courses:**
+    + [HTML Academy Javascript](https://htmlacademy.ru)
+    + [FreeCodeCamp](https://www.freecodecamp.org)
 ### Skills:
 * HTML, CSS
 * JavaScript Basics
