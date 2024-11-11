@@ -22,3 +22,7 @@ Polotsk State University
 * Git, GitHub
 * Photoshop
 * Microsoft Office
+
+### Languages:
+* Russian - Native
+* English - Intermediate
