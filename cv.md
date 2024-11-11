@@ -26,3 +26,11 @@ Highly motivated junior developer with over 2 years of experience. Expert with a
 ### Languages:
 * Russian - Native
 * English - Intermediate
+
+### Code example:
+    var filterFeature = function (el) {
+    var checkedFeaturesItems = housingFeature.querySelectorAll('input:checked');
+    return Array.from(checkedFeaturesItems).every(function (element) {
+      return el.offer.features.includes(element.value);
+    });
+      };
