@@ -15,3 +15,10 @@ Highly motivated junior developer with over 2 years of experience. Expert with a
 Bachelor Degree in Engineering Geodesy
 September 2010 - June 2015
 Polotsk State University
+
+### Skills:
+* HTML, CSS
+* JavaScript Basics
+* Git, GitHub
+* Photoshop
+* Microsoft Office
