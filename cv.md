@@ -10,3 +10,11 @@
 
 ### About Me:
 Highly motivated junior developer with over 2 years of experience. Expert with a wide variety of security, networking, and operating system software.
+
+
+### Skills:
+* HTML, CSS
+* JavaScript Basics
+* Git, GitHub
+* Photoshop
+* Microsoft Office
