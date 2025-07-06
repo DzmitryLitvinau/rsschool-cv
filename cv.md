@@ -18,3 +18,9 @@ Highly motivated junior developer with over 2 years of experience. Expert with a
 * Git, GitHub
 * Photoshop
 * Microsoft Office
+
+### Education:
+- **University:** Bachelor Degree in Engineering Geodesy
+- **Courses:**
+    + [HTML Academy Javascript](https://htmlacademy.ru)
+    + [FreeCodeCamp](https://www.freecodecamp.org)
