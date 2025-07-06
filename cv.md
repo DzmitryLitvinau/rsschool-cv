@@ -24,3 +24,7 @@ Highly motivated junior developer with over 2 years of experience. Expert with a
 - **Courses:**
     + [HTML Academy Javascript](https://htmlacademy.ru)
     + [FreeCodeCamp](https://www.freecodecamp.org)
+
+### Languages:
+* Russian - Native
+* English - Intermediate
